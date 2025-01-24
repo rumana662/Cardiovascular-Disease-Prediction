@@ -37,7 +37,7 @@ To run this project, ensure you have the following installed:
 This is my first project, and I followed a guided approach for learning purposes. The notebook includes step-by-step workflows to explore the dataset and understand machine learning pipelines.
 
 ## Dataset
-The dataset used for this project is the [Cardiovascular Disease Dataset](https://www.kaggle.com) from Kaggle.  
+The dataset used for this project is the [Cardiovascular Disease Dataset](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset) from Kaggle.  
 Please download the dataset and save it in the `data` directory as specified in the notebook.
 
 ## Project Workflow
